@@ -10,11 +10,11 @@ Used Google Drive to store datasets, checkpoint files, etc. <br/>
 comma_challenge<br/>
 |<br/>
 --- data<br/>
-    |<br/>
-    --- train and test videos<br/>
-    --- training images directory<br/>
-    --- test images directory<br/>
-    --- checkpoint directory<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--- train and test videos<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--- training images directory<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--- test images directory<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--- checkpoint directory<br/>
 
 ### Method
 
